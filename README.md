@@ -78,4 +78,4 @@ Literature search, citation verification, and data organization for this project
 
 ## Author
 
-[Your name] — systematic review conducted as an independent study project, with AI-assisted literature search and data organization tools.
+Sanjar Osmanov — systematic review conducted as an independent study project, with AI-assisted literature search and data organization tools.
