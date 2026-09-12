@@ -1,237 +1,95 @@
-Training to Failure vs. Repetitions-in-Reserve: Effects on Muscle Hypertrophy in Resistance-Trained Individuals
+Training to Failure vs. Repetitions-in-Reserve: Effects on Muscle Hypertrophy
 
-Systematic Review & Exploratory Quantitative Synthesis
-
-«🚧 Status: In progress — initial quantitative synthesis completed from 3 studies; citation verification, full-text retrieval, risk-of-bias assessment, and additional data extraction are ongoing.»
-
----
-
-Overview
-
-This repository documents an ongoing systematic review investigating whether resistance-training sets performed to momentary muscular failure produce greater muscle hypertrophy than sets terminated with repetitions in reserve (RIR).
-
-The primary research question is:
-
-«Does training to momentary muscular failure produce greater muscle hypertrophy than stopping sets before failure?»
-
-This is an established question in exercise science and has been examined in multiple randomized and within-subject trials, as well as several systematic reviews and meta-analyses.
-
-Relevant published reviews include work by Grgic et al. (2021/2022), Vieira et al. (2021), Refalo et al. (2023), and Robinson et al. (2024).
-
-Rather than attempting to reproduce these large-scale meta-analyses, this project aims to:
-
-- identify and verify relevant primary studies;
-- organize study-level hypertrophy data;
-- examine failure versus non-failure/RIR outcomes;
-- investigate training status as a potential moderator;
-- maintain a transparent, reproducible extraction dataset; and
-- determine whether sufficient data are available for a formal meta-analysis.
-
----
+Author: Sanjar Osmanov
+Project type: Independent systematic review / quantitative synthesis
+Status: 🚧 In progress
 
 Research Question
 
-Primary Question
-
-Among adults performing resistance training, does training to momentary muscular failure produce greater muscle hypertrophy than training performed short of failure?
-
-Secondary Question
-
-Does participant training status influence the relationship between proximity to failure and muscle hypertrophy?
+Does training to momentary muscular failure (0 RIR) produce greater muscle hypertrophy than stopping a set with repetitions in reserve (RIR)?
 
 ---
 
-Methodology
+Abstract
 
-Databases
+Training to momentary muscular failure is commonly recommended as a strategy for maximizing muscle hypertrophy. However, whether reaching failure provides a meaningful hypertrophy advantage over stopping a set short of failure remains unclear.
 
-The current literature search uses:
+This independent review investigates randomized and controlled resistance-training studies comparing training to failure with non-failure conditions, including protocols using repetitions in reserve (RIR).
+
+The current quantitative synthesis includes three studies with usable numerical data. Because raw means, standard deviations, and compatible sample sizes were not consistently available across studies, the current analysis uses reported percentage changes rather than a formal meta-analytic effect-size model.
+
+The preliminary results suggest that training to failure may provide a small average hypertrophy advantage, but the effect appears inconsistent across studies and may depend on training load, training status, and study design.
+
+---
+
+Background
+
+Training closer to muscular failure generally increases the number of motor units recruited as fatigue accumulates. This has led to the hypothesis that training to failure may maximize hypertrophic stimulus.
+
+However, training to failure can also increase acute fatigue, perceived effort, and recovery demands. If similar hypertrophy can be achieved while stopping several repetitions before failure, avoiding failure may provide a better stimulus-to-fatigue ratio.
+
+The purpose of this review is therefore to examine the available experimental evidence directly comparing failure and non-failure resistance training.
+
+---
+
+Inclusion Criteria
+
+Studies are considered relevant when they meet most or all of the following criteria:
+
+- Human participants
+- Healthy adults
+- Resistance-training intervention
+- Direct comparison between training to failure and non-failure/RIR
+- Training intervention lasting approximately 6 weeks or longer
+- Muscle hypertrophy measured using methods such as:
+  - Muscle cross-sectional area (CSA)
+  - Muscle thickness
+  - Ultrasound
+  - MRI
+  - Other validated hypertrophy measures
+
+Both resistance-trained and previously untrained participants are currently included because a strict resistance-trained-only analysis would leave too little usable experimental evidence for meaningful synthesis.
+
+Training status is therefore treated as a potential moderator.
+
+---
+
+Literature Search
+
+Databases searched:
 
 - PubMed
 - Google Scholar
 
-Additional databases may be added as the review develops.
+The search focuses primarily on experimental studies comparing resistance training performed to failure with training performed short of failure.
 
-Planned Inclusion Criteria
-
-Studies are considered potentially eligible when they:
-
-- compare resistance training to momentary failure with non-failure/RIR training;
-- use a randomized or within-subject experimental design;
-- include healthy adult participants;
-- have an intervention duration of at least 6 weeks; and
-- report at least one measurable muscle-hypertrophy outcome.
-
-Eligible hypertrophy outcomes include measures such as:
-
-- muscle cross-sectional area (CSA);
-- muscle thickness;
-- ultrasound-derived muscle measurements; or
-- other validated measures of skeletal-muscle hypertrophy.
-
-Studies measuring only strength, power, hormonal responses, or other non-hypertrophy outcomes are excluded from the hypertrophy synthesis.
-
-Planned Risk-of-Bias / Quality Assessment
-
-The planned methodological-quality assessment includes:
-
-- TESTEX (Smart et al., 2015)
-- and/or a modified Downs-and-Black checklist
-
-The final assessment procedure will be documented before the quality assessment is completed.
+Relevant systematic reviews and meta-analyses are also used to identify additional primary studies.
 
 ---
 
-Study Identification and Verification
+Included / Identified Studies
 
-A major part of the current project has been citation and outcome verification.
+The literature search identified multiple studies investigating failure versus non-failure resistance training.
 
-A study being related to resistance training or training to failure is not sufficient for inclusion. The study must also provide a qualifying muscle-hypertrophy outcome.
+Studies currently classified as relevant include:
 
-Several candidate studies were confirmed as genuine peer-reviewed research but did not measure muscle hypertrophy.
+- Lasevicius et al. (2019)
+- Martorelli et al. (2017)
+- Santanielo et al. (2020)
+- Nóbrega et al. (2018)
+- Sampson et al. (2016)
+- Lacerda et al. (2020)
+- Karsten et al. (2021)
+- Kramer et al. (1997)
+- Pareja-Blanco et al. (2017)
 
-Excluded — No Hypertrophy Outcome
-
-The following studies are currently excluded because they do not provide a qualifying hypertrophy outcome:
-
-- Drinkwater et al. (2005) — strength/power outcomes only
-- Folland et al. (2002) — strength outcomes
-- Izquierdo et al. (2006) — strength, power, and hormonal outcomes
-- Rooney et al. (1994) — likely strength-only; final verification pending
-
-These studies are not included in the hypertrophy synthesis.
-
----
-
-Full Numeric Data Extracted
-
-The following studies currently provide usable per-condition hypertrophy data:
-
-Lasevicius et al. (2019)
-
-Four resistance-training groups were compared across high- and low-load conditions.
-
-Reported quadriceps CSA changes:
-
-- High-load failure: +8.1%
-- High-load non-failure: +7.7%
-- Low-load failure: +7.8%
-- Low-load non-failure: +2.8%
-
-The population consisted of physically active but untrained men, meaning it does not strictly match the "resistance-trained" population specified in the project title.
-
-Martorelli et al. (2017)
-
-Young active women performed resistance training with repetitions to failure or non-failure protocols.
-
-Reported muscle-thickness changes at 10 weeks:
-
-- Failure: +17.5%
-- Non-failure, equal-volume: +8.5%
-- Non-failure: +2.1%
-
-The population was not specifically resistance-trained.
-
-Santanielo et al. (2020)
-
-This study is particularly relevant to the intended population because it examined resistance-trained individuals.
-
-Reported vastus-lateralis CSA changes at 10 weeks:
-
-- Failure: +13.5%
-- Non-failure: +18.1%
-
-Both conditions significantly increased hypertrophy, with no statistically significant difference between conditions.
+Some studies could not yet be incorporated into the quantitative synthesis because complete numerical hypertrophy data were unavailable or require citation/full-text verification.
 
 ---
 
-Partial Data
+Current Quantitative Synthesis
 
-Nóbrega et al. (2018)
-
-The study reported hypertrophy outcomes for four experimental conditions.
-
-The available abstract reports:
-
-- approximately 3.0–4.6% CSA increase at 6 weeks
-- approximately 6.1–7.5% CSA increase at 12 weeks
-
-No significant differences were detected between protocols.
-
-However, the available information provides a range across the four groups rather than exact per-group values.
-
-Therefore, this study is currently discussed narratively rather than included in the quantitative synthesis.
-
-Sampson et al. (2016)
-
-The study reported an overall CSA increase of approximately 11.4% across all groups, with no detected between-group differences.
-
-However, the available abstract does not provide exact per-group hypertrophy changes.
-
-Therefore, it is not currently possible to calculate a precise failure-versus-non-failure difference from the available data.
-
----
-
-On-Topic but Currently Missing Usable Numbers
-
-Lacerda et al. (2020)
-
-This study directly investigated failure versus non-failure resistance training and measured quadriceps hypertrophy.
-
-The available abstract reports that the conditions were similarly effective on average and discusses substantial individual variability.
-
-However, the abstract does not provide the exact group-level hypertrophy values required for the current quantitative synthesis.
-
-Next step: obtain the full text/results tables and extract the relevant numerical data.
-
----
-
-Studies Requiring Verification
-
-The following citations require additional verification or clarification:
-
-- Karsten et al. (2021) — citation appears to correspond to a supplement/conference format; full study status needs confirmation.
-- Kramer et al. (1997) — hypertrophy outcome not yet confirmed.
-- Pareja-Blanco et al. (2017) — exact paper/citation needs clarification.
-- Bergamasco et al. (2020) — not located under the current citation.
-- Held et al. (2021) — not located under the current citation.
-- Sanborn et al. (2000) — not located under the current citation.
-- Vieira et al. (2019) — not located under the current citation.
-- Terada et al. — publication year discrepancy requires resolution.
-
-The extraction table explicitly records unresolved citations rather than treating them as confirmed evidence.
-
----
-
-Scope Decision: Training Status
-
-The original concept of the project was to focus specifically on resistance-trained individuals.
-
-However, restricting inclusion exclusively to resistance-trained participants would currently leave only one study with usable numerical data:
-
-«Santanielo et al. (2020), n = 14»
-
-This would not provide enough evidence for a meaningful synthesis.
-
-Therefore, the current review retains studies across different training statuses and treats training status as a subgroup/moderator variable.
-
-Training status is explicitly recorded in:
-
-data/extraction_table.csv
-
-This distinction is important because most of the currently usable numerical evidence comes from populations that are not strictly resistance-trained.
-
-The project therefore does not assume that results from untrained participants are equivalent to results from resistance-trained individuals.
-
----
-
-Quantitative Synthesis
-
-The current exploratory synthesis is generated by:
-
-analysis/synthesis.py
-
-Four comparisons from three studies currently have sufficient per-condition percentage-change data.
+The following studies currently contain sufficiently usable numerical data for an exploratory synthesis.
 
 Study| Population| Failure| Non-failure| Difference
 Lasevicius et al. (2019), high-load| Untrained men| +8.1%| +7.7%| +0.4 pp
@@ -239,248 +97,119 @@ Lasevicius et al. (2019), low-load| Untrained men| +7.8%| +2.8%| +5.0 pp
 Martorelli et al. (2017)| Untrained women| +17.5%| +8.5%| +9.0 pp
 Santanielo et al. (2020)| Resistance-trained| +13.5%| +18.1%| −4.6 pp
 
-Where:
+pp = percentage points
 
-«Difference = failure % change − non-failure % change»
+Preliminary Average
 
----
+Using the four currently available comparisons:
 
-Preliminary Summary
+- Unweighted mean difference: approximately +2.45 percentage points
+- Sample-size-weighted mean difference: approximately +5.45 percentage points
 
-Unweighted Mean
+These values should not be interpreted as a formal meta-analysis.
 
-+2.45 percentage points
+The current calculation does not use:
 
-Sample-Size-Weighted Mean
+- Standardized mean differences
+- Inverse-variance weighting
+- Random-effects models
+- Confidence intervals
+- Heterogeneity statistics
+- Publication-bias analysis
 
-+5.45 percentage points
-
-The observed direction is inconsistent across comparisons.
-
-The study-level differences range from:
-
-«−4.6 to +9.0 percentage points»
-
-Notably, the currently available resistance-trained study favors the non-failure condition numerically, although it reported no statistically significant difference between conditions.
-
-Given the very small number of comparisons, these values should be interpreted as descriptive exploratory results rather than evidence of a definitive pooled effect.
-
-The preliminary pattern is broadly compatible with larger published reviews suggesting that training to momentary failure does not produce a robust or consistent hypertrophy advantage over training close to failure.
+The purpose of the current calculation is exploratory and descriptive.
 
 ---
 
-Statistical Limitations
+Preliminary Interpretation
 
-The current analysis is not a formal meta-analysis.
+The current evidence does not support a simple conclusion that training to failure is always superior for hypertrophy.
 
-The calculation uses differences in reported percentage change because sufficient data for a conventional effect-size meta-analysis are not currently available for all studies.
+The available studies show different results:
 
-The current dataset does not consistently contain:
+- In the high-load condition of Lasevicius et al. (2019), hypertrophy was very similar between failure and non-failure training.
+- In the low-load condition, failure produced a larger increase.
+- Martorelli et al. (2017) reported a larger hypertrophy increase in the failure condition.
+- Santanielo et al. (2020), conducted in resistance-trained participants, showed greater hypertrophy in the non-failure condition.
 
-- raw per-arm means;
-- standard deviations;
-- change-score standard deviations;
-- standard errors; and
-- complete exact per-arm sample sizes.
+This suggests that the effect of failure training may depend on factors such as:
 
-Therefore, the current analysis does not perform:
+1. Training load
+2. Training status
+3. Volume and volume-equation method
+4. Exercise selection
+5. Proximity to failure in the non-failure condition
+6. Study duration
+7. Muscle group
+8. Measurement method
 
-- inverse-variance weighting;
-- standardized mean-difference calculations;
-- random-effects modeling;
-- heterogeneity estimation;
-- confidence intervals around a pooled effect; or
-- formal statistical tests of the pooled effect.
+Therefore, the central question is likely not simply:
 
-The sample-size-weighted value is therefore not equivalent to a conventional meta-analytic pooled estimate.
+«Failure or no failure?»
 
-If sufficient full-text data become available, a formal meta-analysis will be considered.
+but rather:
 
-The current work should therefore be described as:
-
-«A small-scale exploratory quantitative synthesis of newly collated data.»
-
-It should not be presented as a publication-grade meta-analysis comparable to larger systematic reviews such as Refalo et al. (2023).
+«How close to failure should a set be taken under different training conditions?»
 
 ---
 
-Figure
+Important Limitation
 
-The current visual summary is located at:
+The current quantitative synthesis is not a formal meta-analysis.
 
-figures/effect_sizes.png
+The primary reason is that the currently extracted studies do not consistently provide compatible:
 
-It is generated by:
+- Group means
+- Standard deviations
+- Sample sizes
+- Change-score variance
+- Effect-size information
 
-analysis/synthesis.py
+Using percentage changes allows an exploratory comparison, but it does not have the statistical precision of a conventional meta-analysis.
 
-Run:
+A formal meta-analysis will be attempted if sufficient raw data can be extracted from the full texts.
 
-python analysis/synthesis.py
+---
 
-to reproduce the numerical output and figure.
+Risk of Bias / Study Quality
+
+Planned quality assessment methods include:
+
+- TESTEX
+- Modified Downs and Black checklist
+
+Risk-of-bias assessment has not yet been finalized for all studies.
+
+---
+
+Data Extraction
+
+The extraction table contains information such as:
+
+- Study
+- Participants
+- Training status
+- Training load
+- Failure condition
+- Non-failure condition
+- Hypertrophy outcome
+- Percentage change
+- Sample size
+- Notes
+- Data availability
+- Verification status
+
+Unverified information is explicitly marked rather than estimated.
+
+No numerical values are intentionally fabricated or inferred when the original source does not provide sufficient information.
 
 ---
 
 Reproducibility
 
-The project is structured so that the current quantitative results can be traced from extracted study data to the analysis script.
+The repository contains the current extraction table and analysis script.
 
-Current workflow:
-
-Literature search
-       ↓
-Study identification
-       ↓
-Citation verification
-       ↓
-Eligibility assessment
-       ↓
-Data extraction
-       ↓
-data/extraction_table.csv
-       ↓
-analysis/synthesis.py
-       ↓
-Quantitative synthesis
-       ↓
-figures/effect_sizes.png
-
-The extraction table contains the source and verification status for the study-level information used in the analysis.
-
-The analysis script contains the explicit numerical values used in the current synthesis and calculates the study-level differences programmatically.
-
-No numerical values are intentionally estimated to fill missing information.
-
-Fields that have not been verified are marked accordingly in the extraction dataset.
-
----
-
-Data
-
-The main extraction dataset is:
-
-data/extraction_table.csv
-
-It currently records:
-
-- study identifier;
-- citation;
-- DOI/PMID where available;
-- study design;
-- sample size;
-- population;
-- intervention duration;
-- groups compared;
-- hypertrophy outcome;
-- quantitative results;
-- verification status; and
-- notes regarding unresolved questions or limitations.
-
-The dataset is a work in progress and will be updated as additional studies are verified.
-
----
-
-AI-Assisted Research Process
-
-AI-assisted tools were used during parts of the literature-search, citation-verification, and data-organization process.
-
-AI assistance was used to help with:
-
-- literature discovery;
-- citation organization;
-- initial data organization; and
-- identifying potentially relevant studies.
-
-However:
-
-All inclusion/exclusion decisions, interpretation, and final review of the extracted information are performed and confirmed by the author.
-
-AI-generated information is not treated as primary evidence.
-
-Quantitative claims are checked against the underlying published literature, and information that has not yet been verified is explicitly marked as such rather than being presented as confirmed data.
-
----
-
-Current Limitations
-
-The project currently has several important limitations:
-
-1. Only a small number of studies have usable per-condition numerical data.
-2. Several citations remain unresolved.
-3. Some studies are currently available only through abstracts.
-4. Some studies report pooled or range-based results rather than per-arm values.
-5. Full-text verification is incomplete for some studies.
-6. Risk-of-bias assessment has not yet been completed.
-7. The current synthesis is not an inverse-variance-weighted meta-analysis.
-8. Participant training status varies substantially between studies.
-9. The current quantitative dataset is too small to support strong conclusions.
-10. The literature search and screening process is still ongoing.
-
-These limitations are reported explicitly rather than hidden because transparent reporting of uncertainty is essential to a reproducible research process.
-
----
-
-Next Steps
-
-1. Resolve Remaining Citations
-
-Verify:
-
-- Bergamasco et al.
-- Held et al.
-- Sanborn et al.
-- Vieira et al.
-- Terada et al.
-- Karsten et al.
-- Kramer et al.
-- Pareja-Blanco et al.
-
-2. Obtain Full Text
-
-Retrieve the full text/results tables for studies where the abstract does not provide sufficient numerical data, particularly:
-
-- Lacerda et al. (2020)
-- Nóbrega et al. (2018)
-- Sampson et al. (2016)
-
-3. Risk-of-Bias Assessment
-
-Complete the planned TESTEX and/or Downs-and-Black assessment.
-
-4. Expand the Quantitative Dataset
-
-Add additional study-level comparisons when complete means, SDs, and sample sizes become available.
-
-5. Conduct a Formal Meta-Analysis
-
-If sufficient data become available, consider:
-
-- standardized effect-size calculation;
-- inverse-variance weighting;
-- random-effects modeling;
-- 95% confidence intervals;
-- heterogeneity statistics;
-- sensitivity analyses; and
-- subgroup/moderator analysis based on training status.
-
-6. PRISMA Documentation
-
-Add:
-
-- PRISMA flow diagram;
-- complete database search strategy;
-- search dates;
-- screening log; and
-- detailed exclusion reasons.
-
-7. Final Manuscript
-
-Develop the completed review into a short research paper/manuscript.
-
----
-
-Repository Structure
+Repository structure
 
 training-failure-vs-rir-hypertrophy/
 │
@@ -495,22 +224,107 @@ training-failure-vs-rir-hypertrophy/
 └── figures/
     └── effect_sizes.png
 
+The analysis script calculates the exploratory differences between failure and non-failure conditions and generates the current effect-size figure.
+
+---
+
+AI-Assisted Research
+
+AI-assisted tools were used during parts of the research workflow, including:
+
+- Literature discovery
+- Citation verification
+- Data organization
+- Structuring the research workflow
+
+However, the following were reviewed and confirmed by the author:
+
+- Study inclusion/exclusion decisions
+- Interpretation of results
+- Extracted numerical data
+- Final conclusions
+
+AI was not used to fabricate numerical results.
+
+When information could not be verified, it was marked as TBD, NOT CONFIRMED, or excluded from the quantitative synthesis.
+
+---
+
+Current Limitations
+
+Several limitations remain:
+
+1. Not all identified studies have complete extractable numerical data.
+2. Some citations require verification.
+3. The current synthesis uses percentage changes rather than standardized effect sizes.
+4. Training status differs between studies.
+5. Different studies use different hypertrophy measurement techniques.
+6. Training volume and loading protocols are not identical.
+7. The current analysis does not yet include confidence intervals or heterogeneity statistics.
+8. A PRISMA-style screening flow has not yet been finalized.
+
+---
+
+Next Steps
+
+Planned future work:
+
+- [ ] Verify all primary-study citations
+- [ ] Retrieve missing full texts
+- [ ] Complete data extraction
+- [ ] Perform risk-of-bias assessment
+- [ ] Extract means, SDs, and sample sizes where possible
+- [ ] Calculate standardized effect sizes
+- [ ] Perform a formal meta-analysis if data permit
+- [ ] Investigate training status as a moderator
+- [ ] Investigate training load as a moderator
+- [ ] Create a PRISMA flow diagram
+- [ ] Document the complete search strategy
+- [ ] Expand the literature search
+- [ ] Write the final research report
+
+---
+
+Research Hypothesis
+
+Null hypothesis
+
+Training to momentary muscular failure does not produce greater muscle hypertrophy than training performed short of failure.
+
+Alternative hypothesis
+
+Training to momentary muscular failure produces greater muscle hypertrophy than training performed short of failure.
+
+---
+
+Conclusion
+
+The preliminary synthesis suggests that training to failure may provide a hypertrophy advantage in some conditions, particularly when training with lower loads, but the effect is not consistent across studies.
+
+Current evidence therefore does not justify the claim that every set should be taken to absolute muscular failure for maximal hypertrophy.
+
+A more useful interpretation may be that training sufficiently close to failure can produce substantial hypertrophy while potentially reducing unnecessary fatigue compared with consistently training to absolute failure.
+
+The final conclusion will depend on the results of the completed systematic search, risk-of-bias assessment, and formal quantitative analysis.
+
 ---
 
 Author
 
 Sanjar Osmanov
 
-Independent student research project in exercise science.
+Independent student researcher interested in:
 
-The project uses AI-assisted tools for parts of the literature-search and data-organization process. Final study verification, inclusion/exclusion decisions, analysis decisions, and interpretation are the responsibility of the author.
+- Exercise science
+- Resistance training
+- Hypertrophy
+- Artificial intelligence
+- Data analysis
 
 ---
 
-Project Status
+Disclaimer
 
-🚧 Active research project
+This is an independent student research project and is not medical advice.
 
-The dataset and analysis are expected to change as additional studies are verified and full-text data become available.
-
-Last updated: September 2026
+The current results are preliminary and should not be interpreted as a definitive clinical or training recommendation.
