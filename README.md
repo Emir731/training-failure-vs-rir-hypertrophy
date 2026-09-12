@@ -53,7 +53,7 @@ See `data/extraction_table.csv` for the row-by-row status of every study, includ
 
 ## Process note
 
-Literature search, citation verification, and data organization for this project were conducted with AI-assisted tools (Claude, Anthropic), with all inclusion/exclusion judgment calls, interpretation, and final review performed and confirmed by the author. No data in this repository is fabricated or estimated — fields not yet verified from a primary source are explicitly marked `TBD` or `NOT CONFIRMED` rather than filled with placeholder numbers.
+Literature search and data organization for this project were conducted with the assistance of AI tools (Claude), with all inclusion/exclusion decisions, data verification, and interpretation performed by the author
 
 ## Next steps
 
